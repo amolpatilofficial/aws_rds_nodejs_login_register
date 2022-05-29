@@ -24,3 +24,4 @@ CREATE TABLE `' + dbconfig.database + '`.`' + dbconfig.users_table + '` ( \
 console.log('Success: Database Created!')
 
 connection.end();
+
